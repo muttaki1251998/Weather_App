@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Web app to determine weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muttaki Khan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
+}
